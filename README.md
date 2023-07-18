@@ -1,11 +1,11 @@
-### Hola 👋, soy Joaquín!
-#### Desarrollador web full-stack
+ ## Console.log (Hola 👋, soy Joaquín!)
+### Desarrollador web full-stack
 ![Desarrollador web full-stack](https://images.vexels.com/media/users/3/157204/isolated/lists/32098c9923436f09712af14f542411bb-icono-de-escritorio-de-computadora-en-blanco-y-negro.png)
 
 
 Habilidades: JS / HTML / CSS / React
 
-- 📫 Cómo contactarme: Joakispiller22@gmail.com 
+- 📫 Cómo contactarme:   Joakispiller22@gmail.com 
 
 
 
